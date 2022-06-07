@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Covi Track</string>
+    <string name="fetch">Fetch Data</string>
+</resources>
